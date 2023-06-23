@@ -6,6 +6,12 @@
         <item name="colorPrimaryVariant">@color/green_dark</item>
         <item name="colorSecondary">@color/blue</item>
         <item name="colorSecondaryVariant">@color/blue_dark</item>
+        <!-- Text input fields -->
+        <item name="textInputStyle">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox</item>
+        <!-- Radio buttons -->
+        <item name="radioButtonStyle">@style/Widget.TipTime.CompoundButton.RadioButton</item>
+        <!-- Switches -->
+        <item name="switchStyle">@style/Widget.TipTime.CompoundButton.Switch</item>
     </style>
 
     <style name="Theme.TipTime" parent="Base.Theme.TipTime" />
